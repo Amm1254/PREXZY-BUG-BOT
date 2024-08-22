@@ -1,4 +1,4 @@
-const fs = require('fs')
+pconst fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
@@ -8,8 +8,8 @@ global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '263717750825'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
+global.ownernumber = '254111227546'  //creator number
+global.ownername = 'Sammd' //owner name
 global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -28,12 +28,12 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
